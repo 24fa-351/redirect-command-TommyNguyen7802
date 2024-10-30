@@ -1,5 +1,5 @@
 # 351-redirect
-Usage: ./main <inp> <cmd> <out>
+Usage: ./main "inp" "cmd" "out"
 # <inp>
 should take in a file name or if no input file to be used type in "-"
 # <cmd>
